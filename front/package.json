@@ -6,8 +6,8 @@
     "build": "webpack --mode production"
   },
   "dependencies": {
-    "webpack": "4.34.0",
-    "webpack-cli": "3.3.4"
+    "webpack": "5.75.0",
+    "webpack-cli": "5.0.1"
   },
   "license": "ISC",
   "repository": {
